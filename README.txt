@@ -57,7 +57,8 @@ and to end the loop, you should code like:
 it is end
 
 and when you want to execute it, you should:
-(description at runws.py)
+  i) just run runws.exe and use it as an idle.
+  ii) make a ".ws" file and execute it with runws.exe
 
 note: the variable 'it' does the same action as python's '_' variable.
-for more informations, please call 010-7117-0742 (+81)
+for more informations, please call (+82) 010-7117-0742
