@@ -68,11 +68,24 @@ more descriptions)
 to make a variable, you should code like:
 (variable_name) is value of (value)
 
+and to make an if-statement, you should code like:
+it is if of (variable_name)            # if
+(some codes)
+it is end
+it is elseif of (variable_name)        # elif
+(some codes)
+it is end
+it is else                             # else
+(some codes)
+it is end
+
 and to make a loop, you should code like:
 (variable_name) is loop of (start_range) and (end_range)
-
-and to end the loop, you should code like:
+(some codes)
 it is end
+
+and to break the loop, you should code like:
+it is break
 
 and when you want to execute it, you should:
   i) just run runws.exe and use it as an idle.
