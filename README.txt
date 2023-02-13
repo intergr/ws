@@ -1,5 +1,5 @@
 # ws
-worstscript, a worst way to learn a programming language
+worstscript, a worst way to learn a programming language (not witcherscript)
 
 grammar)
 (variable_name) is (function) of (parameters, seperated by "and".)
