@@ -94,4 +94,3 @@ and when you want to execute it, you should:
   ii) make a ".ws" file and execute it with runws.exe
   //running .ws file with runws.py is not recommended. just use runws.exe. it's more convenient, just use exe files
 
-for more informations, please call (+82) 010-7117-0742
